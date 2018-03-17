@@ -12,6 +12,6 @@ public class WhatsMyName
 		System.out.print("What is your last name?");
 		String name2 = kbReader.next();
 
-		System.out.println("Your full name is " + name1 + name2 + "."); 
+		System.out.println("Your full name is " + name1 + " " + name2 + "."); 
 	}
 }
