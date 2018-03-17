@@ -8,6 +8,8 @@ public class WhatsMyName
 	{
 		Scanner kbReader = new Scanner(System.in);
 		System.out.print("What is your first name?");
-		String name1 = kbReader.next(); 
+		String name1 = kbReader.next();
+		System.out.print("What is your last name?");
+		String name2 = kbReader.next(); 
 	}
 }
