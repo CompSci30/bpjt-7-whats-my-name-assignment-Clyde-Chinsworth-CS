@@ -6,5 +6,7 @@ public class WhatsMyName
 {
 	public static void main(String args[])
 	{
+		Scanner kbReader = new Scanner(System.in);
+		
 	}
 }
